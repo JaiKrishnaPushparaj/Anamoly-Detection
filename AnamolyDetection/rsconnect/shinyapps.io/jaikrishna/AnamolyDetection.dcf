@@ -1,0 +1,13 @@
+name: AnamolyDetection
+title: AnamolyDetection
+username:
+account: jaikrishna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1937748
+bundleId: 2874402
+url: https://jaikrishna.shinyapps.io/AnamolyDetection/
+when: 1584005218.91152
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DataTraining.R|exporatory.R|Logistic.R|preprocess.R|RandomForest.R|Tree.R
